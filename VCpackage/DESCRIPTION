@@ -1,0 +1,31 @@
+Package: VCpackage
+Title: Pachet pentru lucrul cu variabile  aleatoare continue
+Version: 0.0.0.9000
+Authors@R: c(person(given = "Denisa-Elena",
+           family = "Iordache",
+           role = "ctb",
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+           person(given = "Paula",
+           family = "Iuga",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+           person(given = "Tavi",
+           family = "Neagoe",
+           role = "ctb",
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+           person(given = "Radu-Andrei",
+           family = "Nedelcu",
+           role = "ctb",
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")))
+Description: Pachetul ofera functii utile pentru lucrul cu v.a. continue, de pilda functii pentru medii, momente critice, reprezentari grafice
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: data.table (>= 1.9.4),cubature
