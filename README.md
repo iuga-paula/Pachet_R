@@ -2,10 +2,10 @@
 Proiect de grup ce implementează un pachet R ce conține funcții pentru lucrul cu variabilele aleatoare continue.
 
 ## Membrii echipei
-[IugaPaula](https://github.com/iuga-paula)
-[NedelcuRadu](https://github.com/NedelcuRadu)
-[NeagoeTavi]()
-[DenisaIordache]()
+- [IugaPaula](https://github.com/iuga-paula)
+- [NedelcuRadu](https://github.com/NedelcuRadu)
+- [NeagoeTavi]()
+- [DenisaIordache]()
 
 
 ## Tehnologii folosite
