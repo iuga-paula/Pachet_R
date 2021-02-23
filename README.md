@@ -2,6 +2,10 @@
 Proiect de grup ce implementează un pachet R ce conține funcții pentru lucrul cu variabilele aleatoare continue.
 
 ## Membrii echipei
+[IugaPaula](https://github.com/iuga-paula)
+[NedelcuRadu](https://github.com/NedelcuRadu)
+[NeagoeTavi]()
+[DenisaIordache]()
 
 
 ## Tehnologii folosite
@@ -11,5 +15,5 @@ Proiect de grup ce implementează un pachet R ce conține funcții pentru lucrul
 
 ## Fisiere
 * [Codul sursă](https://github.com/iuga-paula/Pachet_R/blob/main/Proiect.R)
-* [Documentație]()
+* [Documentație](https://github.com/iuga-paula/Pachet_R/blob/main/Documentatie_Statistica.pdf)
 * [Pachetul](https://github.com/iuga-paula/Pachet_R/tree/main/VCpackage)
